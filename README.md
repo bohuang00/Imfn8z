@@ -46,13 +46,3 @@ Python ｜ C | C++
 
 ![Bo Huang's GitHub stats](https://github-readme-stats.vercel.app/api?username=imfn8z&show_icons=true)
 
----
-
-请将其中的[你的名字]、[你正在学习的东西]、[你的邮箱地址]、[项目名称1]、[项目名称2]、[链接地址]、[你会使用的编程语言和工具的徽章]、[yourusername]替换成您的实际信息。
-
-"你会使用的编程语言和工具的徽章"可以在[shields.io](https://shields.io/)网站上生成，然后复制链接到您的readme中。
-
-"我的GitHub统计信息"是使用了一个GitHub的插件叫做[github-readme-stats](https://github.com/anuraghazra/github-readme-stats)，你可以点击链接去看具体如何使用。
-
-在README中，可以适当加入更多关于你的介绍，比如你的爱好、你的工作或者你的成就等等。这样可以让人们更好地了解你。
-
